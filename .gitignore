@@ -1,5 +1,5 @@
 # Build output
-target/
+/target/
 *.class
 *.jar
 
@@ -15,7 +15,7 @@ target/
 !.env.example
 
 # Full dataset, downloaded on first run
-data/
+/data/
 
 # JVM crash logs
 hs_err_pid*.log
